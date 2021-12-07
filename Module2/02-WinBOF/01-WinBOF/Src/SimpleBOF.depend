@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1638786654 source:c:\users\h1labs\documents\simplebof\main.cpp
+	<iostream>
+	<cstring>
+

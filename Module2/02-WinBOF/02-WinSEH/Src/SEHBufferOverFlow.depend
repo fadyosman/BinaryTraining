@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1638817329 source:c:\users\h1labs\documents\sehbufferoverflow\main.cpp
+	<iostream>
+	<cstring>
+
